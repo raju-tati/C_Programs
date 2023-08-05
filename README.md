@@ -1,2 +1,2 @@
 # C_Programs
-C programs for learning purposes
+Simple c programs for learning purpose
